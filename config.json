@@ -10,16 +10,13 @@
             "sourceURL":["http://www.ons.gov.uk/ons"],
         
             "annotationChart": [
-                "The three troughs are due to the economic downturns  in the early 1980s, early 1990s and late 2000s.",
-                "Claws in  your leg"
+                "The three troughs are due to the economic downturns  in the early 1980s, early 1990s and late 2000s."
             ],
             "annotationBullet": [
-                "The three troughs are due to the economic downturns in the early  1980s, early 1990s and late 2000s. The most recent downturn had  less impact on the employment rate than previous downturns",
-                "Claws in your leg. Purr for no reason"
+                "The three troughs are due to the economic downturns in the early  1980s, early 1990s and late 2000s. The most recent downturn had  less impact on the employment rate than previous downturns"
             ],
             "annotationXY":[
-                ["Jul-00","67"],
-                ["Jul-08","73.7"]
+                ["2003","800"]
             ],
             "annotationAlign":[
                 "middle",
@@ -28,8 +25,7 @@
         
             "circles" : true,    
             "annotationCXCY":[
-                ["Apr-93","68.4"],
-                ["Apr-08","73"]
+                ["Apr-93","68.4"]
             ],
         
             "yAxisLabel":"yAxisUnit",
